@@ -1,0 +1,15 @@
+{
+  "name": "cypress-cucumber",
+  "version": "1.0.0",
+  "description": "Automação Web - Cypress e Cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "GilvanJS QA",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^13.6.6"
+  }
+}
